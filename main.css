@@ -3,11 +3,14 @@ h1 {
   text-align: center;
     }
 
-iframe{
-  width : 100vw;
-  height : 100%; 
+section.toolbar-position-bottom{
+  visibility: hidden;
+  height: 0px;
 }
 
+.disclaimer{
+  text-align: center;
+  margin-left : 1em;
+  margin-right: 1em;
   
-
-    
+}
