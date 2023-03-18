@@ -1,7 +1,7 @@
 h1 {
-    color : black; 
+  color : black; 
   text-align: center;
-    }
+}
 
 section.toolbar-position-bottom{
   visibility: hidden;
@@ -12,5 +12,9 @@ section.toolbar-position-bottom{
   text-align: center;
   margin-left : 1em;
   margin-right: 1em;
-  
+}
+
+iframe {
+  width: 100%;
+  height: 1800px;
 }
