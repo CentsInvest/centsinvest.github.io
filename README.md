@@ -22,7 +22,7 @@ schedule.
 $ crontab -e
 ```
 
-> Hint current folder path is displayed using the `pwd` command.
+> Hint : current folder path is displayed using the `pwd` command.
 
 > Hint : By default your system might be using the vi text editor, here are
 >        some of it's basic usage.
